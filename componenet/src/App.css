@@ -1,0 +1,38 @@
+*
+{
+  background-image: url("./image/r5.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.9;
+  
+ 
+}
+.heading
+{
+  color:white;
+  margin-left: 28%;
+  font-size: 48px;
+  margin-top: 29%;
+}
+.para
+{
+  color:silver;
+  margin-left: 30%;
+  margin-top: -1%;
+  font-size: 26px;
+  text-transform: capitalize;
+}
+.menu
+{
+  color:white;
+  margin-left: 43%;
+  font-size: 38px;
+  text-transform: capitalize;
+}
+.list
+{
+  color:white;
+  margin-left: 38%;
+  font-size: 26px;
+  text-transform: capitalize;
+}

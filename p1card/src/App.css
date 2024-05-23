@@ -1,0 +1,30 @@
+.background
+{
+   background-image: url("./image/waterpark.jpeg");
+   background-size:cover;
+   opacity: 0.8;
+   height: 700px;
+   width: 100%;
+   z-index: -1;
+   background-attachment: fixed;
+}
+h1{
+  font-size: 64px;
+margin-left: 40%;
+ position: absolute;
+ margin-top: 15%;
+  color:white;
+  
+}
+p
+{
+  color:black;
+  font-size: 28px;
+  margin-left: 30%;
+ position: absolute;
+ margin-top: 22%;
+  text-align: center;
+}
+hr{
+  width: 50%;
+}

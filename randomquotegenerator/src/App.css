@@ -1,0 +1,42 @@
+*
+{
+  background-image: url("./assets/b8.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.quote
+{
+  max-width: 100%;
+  height: 400px;
+  
+}
+.p1
+{
+  max-width: 350%;
+  max-width: 350%;
+  height: 100px;
+  margin-left:20%;
+  background: rgb(191, 236, 164);
+  color: black;
+  font-size: 30px;
+ 
+}
+.p2
+{
+  max-width: 350%;
+  max-width: 350%;
+  height: 50px;
+  margin-left:20%;
+  background: rgb(191, 236, 164);
+  color: black;
+  font-size: 30px;
+}
+button{
+  background: white;
+  color: black;
+  width: 30% ;
+  height: 50px;
+  border: 2px solid black;
+  margin-left:50% ;
+  
+}

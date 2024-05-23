@@ -1,0 +1,30 @@
+.heading_style
+{
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  margin-left: 30%;
+}
+*
+{
+  background-image: url("./image/sm.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.slotmachine{
+  border: 4px solid black;
+  width: 40%;
+  margin-top: 4%;
+  height: 600px;
+  margin-left: 30%;
+}
+.slot_inner{
+  
+  padding-left: 26%;
+  color: white;
+}
+hr
+{
+  width: 100%;
+  
+}

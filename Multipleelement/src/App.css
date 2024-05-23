@@ -1,0 +1,23 @@
+.background
+{
+  background-image: url("./image/GU1.jpeg");
+  opacity: 0.6;
+  background-attachment: fixed;
+  z-index: -1;
+  height: 700px;
+  background-size: cover;
+}
+h1{
+  font-size: 55px;
+  color:green;
+  position: absolute;
+  margin-left:36% ;
+  margin-top: 14%;
+}
+ul
+{
+  position: absolute;
+  font-size: 38px;
+  margin-left:32% ;
+  margin-top: 24%;
+}

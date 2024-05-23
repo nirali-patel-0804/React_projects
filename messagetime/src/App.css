@@ -1,0 +1,19 @@
+.heading
+{
+  position: absolute;
+  margin-left: 32%;
+  margin-top: 18%;
+  background-color: purple ;
+  opacity: 0.8;
+  z-index: -1;
+  width: 35%;
+  height: 50px;
+  padding: 30px;
+  font-size: 48px;
+}
+*
+{
+  background-image: url("./image/g1.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}

@@ -1,0 +1,28 @@
+
+*
+{
+    background-image: url("https://th.bing.com/th/id/R.6002d04559be54a002ce27925325bcf8?rik=xDa6mHoAGUzpWA&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2fblured-background.jpg&ehk=09wejveRoHNYu3qv2QPc%2blF1G7%2fBw58djPJVsubZ%2fHg%3d&risl=&pid=ImgRaw&r=0");
+}
+.s1
+{
+    display: flex;
+}
+b
+{
+    color: black;
+}
+li{
+    color: white;
+    font-size: 25px;
+}
+h1{
+    color: black;
+    background-color: white;
+}
+h2{
+    color: black;
+}
+a{
+    font-size: 25px;
+    color: yellow;
+}

@@ -1,0 +1,51 @@
+.Rodies
+{
+ color: white;
+ margin-left: 30%;
+ font-size: 60px;
+ position: absolute;
+}
+*
+{
+  background-image: url("./image/pngtree-modern-simple-elegant-dark-blue-landing-page-website-background-picture-image_1454711.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.image
+{
+  position: absolute;
+  display: flex;
+  width: 50%;
+  height: 300px;
+  margin-top: 8%;
+  
+}
+img
+{
+  margin-left: 7%;
+}
+h1{
+  color: white;
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 47%;
+
+}
+button{
+  color: white;
+  position: absolute;
+  margin-top: 34%;
+  margin-left: 45%;
+  border: 2px solid white;
+  height: 30px;
+
+}
+p
+{
+  color: white;
+  font-size: 28px;
+  margin-top: 34%;
+  margin-left: 23%;
+  position: absolute;
+}
+

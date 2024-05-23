@@ -1,0 +1,13 @@
+*
+{
+  background-image: url("./image/digital.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 20%;
+  font-size: 60px;
+  color: silver;
+}

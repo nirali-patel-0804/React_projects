@@ -1,0 +1,28 @@
+.background
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: pink;
+  height: 500px;
+}
+img
+{
+  width: 23%;
+  height: 350px;
+  margin-top: 5%;
+  margin-left: 1%;
+}
+h1
+{
+  font-size: 38px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.image2
+{
+  width: 80%;
+  height: 350px;
+  margin-top: 18%;
+  margin-left: 8%;
+}
